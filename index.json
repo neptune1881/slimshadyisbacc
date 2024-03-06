@@ -1646,10 +1646,10 @@
   {
     "name": "Aniyomi: KickAssAnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.kickassanime",
-    "apk": "aniyomi-en.kickassanime-v14.37.apk",
+    "apk": "aniyomi-en.kickassanime-v14.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "14.37",
+    "code": 38,
+    "version": "14.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1658,7 +1658,7 @@
         "name": "KickAssAnime",
         "lang": "en",
         "id": "2081771513481539599",
-        "baseUrl": "https://kickassanime.am",
+        "baseUrl": "https://kaas.to",
         "versionId": 1
       }
     ]
@@ -1886,10 +1886,10 @@
   {
     "name": "Aniyomi: PutLocker",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.putlocker",
-    "apk": "aniyomi-en.putlocker-v14.4.apk",
+    "apk": "aniyomi-en.putlocker-v14.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "14.4",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
