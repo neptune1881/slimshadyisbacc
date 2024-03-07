@@ -486,10 +486,10 @@
   {
     "name": "Aniyomi: Arab Seed",
     "pkg": "eu.kanade.tachiyomi.animeextension.ar.arabseed",
-    "apk": "aniyomi-ar.arabseed-v14.11.apk",
+    "apk": "aniyomi-ar.arabseed-v14.12.apk",
     "lang": "ar",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -498,7 +498,7 @@
         "name": "عرب سيد",
         "lang": "ar",
         "id": "4544379135186887077",
-        "baseUrl": "https://m95.arabseed.show",
+        "baseUrl": "https://m.asd.homes",
         "versionId": 1
       }
     ]
@@ -526,10 +526,10 @@
   {
     "name": "Aniyomi: Egy Dead",
     "pkg": "eu.kanade.tachiyomi.animeextension.ar.egydead",
-    "apk": "aniyomi-ar.egydead-v14.11.apk",
+    "apk": "aniyomi-ar.egydead-v14.12.apk",
     "lang": "ar",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -538,7 +538,7 @@
         "name": "Egy Dead",
         "lang": "ar",
         "id": "8402300441936118056",
-        "baseUrl": "https://egydead.space/",
+        "baseUrl": "https://egydead.space",
         "versionId": 1
       }
     ]
@@ -606,10 +606,10 @@
   {
     "name": "Aniyomi: Tuktuk Cinema",
     "pkg": "eu.kanade.tachiyomi.animeextension.ar.tuktukcinema",
-    "apk": "aniyomi-ar.tuktukcinema-v14.17.apk",
+    "apk": "aniyomi-ar.tuktukcinema-v14.18.apk",
     "lang": "ar",
-    "code": 17,
-    "version": "14.17",
+    "code": 18,
+    "version": "14.18",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -618,7 +618,7 @@
         "name": "توك توك سينما",
         "lang": "ar",
         "id": "7363299109912773155",
-        "baseUrl": "https://ww.tuktukcima.com/",
+        "baseUrl": "https://w.tuktokcinema.com",
         "versionId": 1
       }
     ]
@@ -1326,10 +1326,10 @@
   {
     "name": "Aniyomi: Ask4Movie",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.ask4movie",
-    "apk": "aniyomi-en.ask4movie-v14.11.apk",
+    "apk": "aniyomi-en.ask4movie-v14.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1406,10 +1406,10 @@
   {
     "name": "Aniyomi: DramaCool",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.dramacool",
-    "apk": "aniyomi-en.dramacool-v14.47.apk",
+    "apk": "aniyomi-en.dramacool-v14.48.apk",
     "lang": "en",
-    "code": 47,
-    "version": "14.47",
+    "code": 48,
+    "version": "14.48",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1418,7 +1418,7 @@
         "name": "DramaCool",
         "lang": "en",
         "id": "76017545488916387",
-        "baseUrl": "https://dramacool.pa",
+        "baseUrl": "https://dramacool.com.pa",
         "versionId": 1
       }
     ]
@@ -1446,10 +1446,10 @@
   {
     "name": "Aniyomi: FMovies",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.fmovies",
-    "apk": "aniyomi-en.fmovies-v14.20.apk",
+    "apk": "aniyomi-en.fmovies-v14.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "14.20",
+    "code": 21,
+    "version": "14.21",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1486,10 +1486,10 @@
   {
     "name": "Aniyomi: Gogoanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.gogoanime",
-    "apk": "aniyomi-en.gogoanime-v14.80.apk",
+    "apk": "aniyomi-en.gogoanime-v14.81.apk",
     "lang": "en",
-    "code": 80,
-    "version": "14.80",
+    "code": 81,
+    "version": "14.81",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1746,10 +1746,10 @@
   {
     "name": "Aniyomi: Multimovies",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.multimovies",
-    "apk": "aniyomi-en.multimovies-v14.16.apk",
+    "apk": "aniyomi-en.multimovies-v14.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "14.16",
+    "code": 17,
+    "version": "14.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1758,7 +1758,7 @@
         "name": "Multimovies",
         "lang": "en",
         "id": "2268620798063111053",
-        "baseUrl": "https://multimovies.live",
+        "baseUrl": "https://multimovies.art",
         "versionId": 1
       }
     ]
@@ -1906,10 +1906,10 @@
   {
     "name": "Aniyomi: Ripcrabbyanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.ripcrabbyanime",
-    "apk": "aniyomi-en.ripcrabbyanime-v14.11.apk",
+    "apk": "aniyomi-en.ripcrabbyanime-v14.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1918,7 +1918,7 @@
         "name": "Ripcrabbyanime",
         "lang": "en",
         "id": "623659475482363776",
-        "baseUrl": "https://ripcrabbyanimes.com",
+        "baseUrl": "https://ripcrabbyanime.com",
         "versionId": 1
       }
     ]
@@ -2781,10 +2781,10 @@
   {
     "name": "Aniyomi: Anime-Sama",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.animesama",
-    "apk": "aniyomi-fr.animesama-v14.8.apk",
+    "apk": "aniyomi-fr.animesama-v14.9.apk",
     "lang": "fr",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3041,10 +3041,10 @@
   {
     "name": "Aniyomi: YoMovies",
     "pkg": "eu.kanade.tachiyomi.animeextension.hi.yomovies",
-    "apk": "aniyomi-hi.yomovies-v14.8.apk",
+    "apk": "aniyomi-hi.yomovies-v14.9.apk",
     "lang": "hi",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3053,7 +3053,7 @@
         "name": "YoMovies",
         "lang": "hi",
         "id": "2486904751081872151",
-        "baseUrl": "https://yomovies.support",
+        "baseUrl": "https://yomovies.town",
         "versionId": 1
       }
     ]
@@ -3261,10 +3261,10 @@
   {
     "name": "Aniyomi: AnimeUnity",
     "pkg": "eu.kanade.tachiyomi.animeextension.it.animeunity",
-    "apk": "aniyomi-it.animeunity-v14.7.apk",
+    "apk": "aniyomi-it.animeunity-v14.8.apk",
     "lang": "it",
-    "code": 7,
-    "version": "14.7",
+    "code": 8,
+    "version": "14.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3281,10 +3281,10 @@
   {
     "name": "Aniyomi: ANIMEWORLD.tv",
     "pkg": "eu.kanade.tachiyomi.animeextension.it.animeworld",
-    "apk": "aniyomi-it.animeworld-v14.35.apk",
+    "apk": "aniyomi-it.animeworld-v14.36.apk",
     "lang": "it",
-    "code": 35,
-    "version": "14.35",
+    "code": 36,
+    "version": "14.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3341,10 +3341,10 @@
   {
     "name": "Aniyomi: StreamingCommunity",
     "pkg": "eu.kanade.tachiyomi.animeextension.it.streamingcommunity",
-    "apk": "aniyomi-it.streamingcommunity-v14.2.apk",
+    "apk": "aniyomi-it.streamingcommunity-v14.3.apk",
     "lang": "it",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3353,7 +3353,7 @@
         "name": "StreamingCommunity",
         "lang": "it",
         "id": "8092251957420885335",
-        "baseUrl": "https://streamingcommunity.at",
+        "baseUrl": "https://streamingcommunity.report",
         "versionId": 1
       }
     ]
