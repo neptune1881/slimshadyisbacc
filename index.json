@@ -250,26 +250,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Yomiroll",
-    "pkg": "eu.kanade.tachiyomi.animeextension.all.kamyroll",
-    "apk": "aniyomi-all.kamyroll-v14.31.apk",
-    "lang": "all",
-    "code": 31,
-    "version": "14.31",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Yomiroll",
-        "lang": "all",
-        "id": "7463514907068706782",
-        "baseUrl": "https://crunchyroll.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: LMAnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.lmanime",
     "apk": "aniyomi-all.lmanime-v14.8.apk",
@@ -1146,10 +1126,10 @@
   {
     "name": "Aniyomi: Animeflix.live",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animeflixlive",
-    "apk": "aniyomi-en.animeflixlive-v14.2.apk",
+    "apk": "aniyomi-en.animeflixlive-v14.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
