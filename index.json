@@ -2004,6 +2004,26 @@
     ]
   },
   {
+    "name": "Aniyomi: SlothAnime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.slothanime",
+    "apk": "aniyomi-en.slothanime-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SlothAnime",
+        "lang": "en",
+        "id": "5111917255542962744",
+        "baseUrl": "https://slothanime.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: SuperStream",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.superstream",
     "apk": "aniyomi-en.superstream-v14.10.apk",
