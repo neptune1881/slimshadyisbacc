@@ -4139,6 +4139,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Animelib",
+    "pkg": "eu.kanade.tachiyomi.animeextension.ru.animelib",
+    "apk": "aniyomi-ru.animelib-v14.1.apk",
+    "lang": "ru",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Animelib",
+        "lang": "ru",
+        "id": "1484002441113474607",
+        "baseUrl": "https://anilib.me/ru",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Animevost",
     "pkg": "eu.kanade.tachiyomi.animeextension.ru.animevost",
     "apk": "aniyomi-ru.animevost-v14.7.apk",
