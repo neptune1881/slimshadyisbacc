@@ -290,6 +290,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Sudatchi",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.sudatchi",
+    "apk": "aniyomi-all.sudatchi-v14.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Sudatchi",
+        "lang": "all",
+        "id": "2951849872812057541",
+        "baseUrl": "https://sudatchi.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: SupJav",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.supjav",
     "apk": "aniyomi-all.supjav-v14.7.apk",
