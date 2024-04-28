@@ -704,46 +704,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Aniflix",
-    "pkg": "eu.kanade.tachiyomi.animeextension.de.aniflix",
-    "apk": "aniyomi-de.aniflix-v14.28.apk",
-    "lang": "de",
-    "code": 28,
-    "version": "14.28",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Aniflix",
-        "lang": "de",
-        "id": "181189338172528209",
-        "baseUrl": "https://aniflix.cc",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Aniking",
-    "pkg": "eu.kanade.tachiyomi.animeextension.de.aniking",
-    "apk": "aniyomi-de.aniking-v14.17.apk",
-    "lang": "de",
-    "code": 17,
-    "version": "14.17",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Aniking",
-        "lang": "de",
-        "id": "6849853030287708310",
-        "baseUrl": "https://aniking.cc",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: Anime-Base",
     "pkg": "eu.kanade.tachiyomi.animeextension.de.animebase",
     "apk": "aniyomi-de.animebase-v14.24.apk",
@@ -824,7 +784,7 @@
     ]
   },
   {
-    "name": "Aniyomi: AniWorld (experimental)",
+    "name": "Aniyomi: AniWorld",
     "pkg": "eu.kanade.tachiyomi.animeextension.de.aniworld",
     "apk": "aniyomi-de.aniworld-v14.23.apk",
     "lang": "de",
@@ -835,7 +795,7 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "AniWorld (experimental)",
+        "name": "AniWorld",
         "lang": "de",
         "id": "8286900189409315836",
         "baseUrl": "https://aniworld.to",
@@ -1026,10 +986,10 @@
   {
     "name": "Aniyomi: Serienstream",
     "pkg": "eu.kanade.tachiyomi.animeextension.de.serienstream",
-    "apk": "aniyomi-de.serienstream-v14.17.apk",
+    "apk": "aniyomi-de.serienstream-v14.18.apk",
     "lang": "de",
-    "code": 17,
-    "version": "14.17",
+    "code": 18,
+    "version": "14.18",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
