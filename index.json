@@ -2531,12 +2531,32 @@
     ]
   },
   {
+    "name": "Aniyomi: HentaiTk",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.hentaitk",
+    "apk": "aniyomi-es.hentaitk-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HentaiTk",
+        "lang": "es",
+        "id": "7726637677864789742",
+        "baseUrl": "https://hentaitk.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Jkanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.jkanime",
-    "apk": "aniyomi-es.jkanime-v14.22.apk",
+    "apk": "aniyomi-es.jkanime-v14.23.apk",
     "lang": "es",
-    "code": 22,
-    "version": "14.22",
+    "code": 23,
+    "version": "14.23",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
