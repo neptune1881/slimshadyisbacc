@@ -3759,26 +3759,6 @@
     ]
   },
   {
-    "name": "Aniyomi: AnimesVision",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesvision",
-    "apk": "aniyomi-pt.animesvision-v14.25.apk",
-    "lang": "pt-BR",
-    "code": 25,
-    "version": "14.25",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AnimesVision",
-        "lang": "pt-BR",
-        "id": "7211886220891821251",
-        "baseUrl": "https://animes.vision",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: AnimesZone",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeszone",
     "apk": "aniyomi-pt.animeszone-v14.7.apk",
