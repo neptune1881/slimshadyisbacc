@@ -3559,6 +3559,26 @@
     ]
   },
   {
+    "name": "Aniyomi: OgladajAnime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pl.ogladajanime",
+    "apk": "aniyomi-pl.ogladajanime-v14.2.apk",
+    "lang": "pl",
+    "code": 2,
+    "version": "14.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "OgladajAnime",
+        "lang": "pl",
+        "id": "1174869729090616971",
+        "baseUrl": "https://ogladajanime.pl",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Wbijam",
     "pkg": "eu.kanade.tachiyomi.animeextension.pl.wbijam",
     "apk": "aniyomi-pl.wbijam-v14.4.apk",
