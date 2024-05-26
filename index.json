@@ -544,6 +544,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Cimaleek",
+    "pkg": "eu.kanade.tachiyomi.animeextension.ar.cimaleek",
+    "apk": "aniyomi-ar.cimaleek-v14.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "سيما ليك",
+        "lang": "ar",
+        "id": "9014633682469494124",
+        "baseUrl": "https://m.cimaleek.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Egy Dead",
     "pkg": "eu.kanade.tachiyomi.animeextension.ar.egydead",
     "apk": "aniyomi-ar.egydead-v14.12.apk",
@@ -566,10 +586,10 @@
   {
     "name": "Aniyomi: FASELHD",
     "pkg": "eu.kanade.tachiyomi.animeextension.ar.faselhd",
-    "apk": "aniyomi-ar.faselhd-v14.14.apk",
+    "apk": "aniyomi-ar.faselhd-v14.15.apk",
     "lang": "ar",
-    "code": 14,
-    "version": "14.14",
+    "code": 15,
+    "version": "14.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2473,10 +2493,10 @@
   {
     "name": "Aniyomi: Hackstore",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.hackstore",
-    "apk": "aniyomi-es.hackstore-v14.8.apk",
+    "apk": "aniyomi-es.hackstore-v14.9.apk",
     "lang": "es",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2485,7 +2505,7 @@
         "name": "Hackstore",
         "lang": "es",
         "id": "1202443264869837465",
-        "baseUrl": "https://hackstore.rs",
+        "baseUrl": "https://hackstore.to",
         "versionId": 1
       }
     ]
@@ -2760,10 +2780,10 @@
   {
     "name": "Aniyomi: PelisForte",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.pelisforte",
-    "apk": "aniyomi-es.pelisforte-v14.14.apk",
+    "apk": "aniyomi-es.pelisforte-v14.15.apk",
     "lang": "es",
-    "code": 14,
-    "version": "14.14",
+    "code": 15,
+    "version": "14.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2772,7 +2792,7 @@
         "name": "PelisForte",
         "lang": "es",
         "id": "4419048029031752703",
-        "baseUrl": "https://pelisforte.nu",
+        "baseUrl": "https://www1.pelisforte.se",
         "versionId": 1
       }
     ]
