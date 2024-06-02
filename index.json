@@ -3679,6 +3679,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Animes CX",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animescx",
+    "apk": "aniyomi-pt.animescx-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Animes CX",
+        "lang": "pt-BR",
+        "id": "3718439836617642466",
+        "baseUrl": "https://animescx.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Animes Digital",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesdigital",
     "apk": "aniyomi-pt.animesdigital-v14.3.apk",
@@ -3874,6 +3894,26 @@
         "lang": "pt-BR",
         "id": "1190488322033769414",
         "baseUrl": "https://donghuanosekai.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Doramogo",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.doramogo",
+    "apk": "aniyomi-pt.doramogo-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Doramogo",
+        "lang": "pt-BR",
+        "id": "913841527115486600",
+        "baseUrl": "https://doramogo.com",
         "versionId": 1
       }
     ]
